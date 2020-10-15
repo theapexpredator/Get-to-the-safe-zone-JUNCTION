@@ -1,4 +1,4 @@
-# Junction-2020 Connected
+# Junction - 2020 Connected
 
 With the help of this app, we are trying to localize virtual content that can be shared in a relatively high degree of accuracy between multiple users and to persist those objects in the same location in which they were previously positioned in the real world space (Relocalization).
  
